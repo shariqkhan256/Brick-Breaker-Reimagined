@@ -1,0 +1,6 @@
+{
+  "name": "Brick Breaker Reimagined",
+  "description": "An arcade Brick Breaker game with multiple worlds, handcrafted levels, power-ups, skin shops, sound effects, and boss fights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
